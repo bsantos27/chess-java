@@ -1,8 +1,12 @@
 package aplicacao;
 
-public class programa {
+import boadgame.Position;
+
+public class Programa {
 
 	public static void main(String[] arg) {
-		System.out.println("Hello");
+		
+		Position pos = new Position(3, 5);
+		System.out.println(pos);
 	}
 }

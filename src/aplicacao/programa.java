@@ -1,7 +1,5 @@
 package aplicacao;
 
-import boadgame.Board;
-import boadgame.Position;
 import chess.ChessMatch;
 
 public class Programa {

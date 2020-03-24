@@ -14,7 +14,7 @@ public class Board {
 	}
 
 
-	public Board(int i, int j) {
+	public Board() {
 		// TODO Auto-generated constructor stub
 	}
 

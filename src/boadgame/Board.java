@@ -14,6 +14,11 @@ public class Board {
 	}
 
 
+	public Board(int i, int j) {
+		// TODO Auto-generated constructor stub
+	}
+
+
 	public int getRows() {
 		return rows;
 	}
